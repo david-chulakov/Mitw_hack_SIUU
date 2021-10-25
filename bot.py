@@ -17,13 +17,6 @@ level_one_options = ["Instagram Captions", "Hashtags", "Microcopy", "Event Copy"
                      "Cliffhanger", "Explain In Plain English", "Passive to Active Voice", "Name Generator",
                      "Startup Ideas", "Shower Thoughts", "Clubhouse Bio"]
 
-#
-# words = []
-# texts = []
-# wordind = 0
-# words_to_user = []
-# text = "Привет лошара, ты гнида псина ебаная"
-
 
 bot = telebot.TeleBot("TOKEN")
 
