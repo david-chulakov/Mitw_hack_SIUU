@@ -25,7 +25,7 @@ level_one_options = ["Instagram Captions", "Hashtags", "Microcopy", "Event Copy"
 # text = "Привет лошара, ты гнида псина ебаная"
 
 
-bot = telebot.TeleBot("2065762700:AAGFhhADZiYuYLfnkyaZzqpPoHgUy37rJro")
+bot = telebot.TeleBot("TOKEN")
 
 win = False
 
